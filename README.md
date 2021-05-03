@@ -2,7 +2,7 @@
 
 Staircase Problem :
 1. Given distance between origin and destination.
-2. Given set of possible steps that can be taken in order to reach the destination.
+2. Given set of positive possible steps that can be taken in order to reach the destination.
 
 To find :
 
